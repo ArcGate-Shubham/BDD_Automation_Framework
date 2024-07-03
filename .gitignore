@@ -56,7 +56,7 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
+
 local_settings.py
 db.sqlite3
 
@@ -153,7 +153,7 @@ arc_interview_V1/app/ArcSheet/avid-pager-371809-3079f957b908.json
 .idea/arc_interview_V1.iml
 .idea/misc.xml
 
-Logs\logfile.log
+
 Screenshots
 input.properties
 reports
